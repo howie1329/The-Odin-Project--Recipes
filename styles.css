@@ -21,8 +21,11 @@
     text-align: center;
     text-decoration: underline;
 }
+.image{
+    display: flex;
+    justify-content: center;
+}
 img{
-    text-align: center;
     width: 400px;
     height: 400px;
 }
