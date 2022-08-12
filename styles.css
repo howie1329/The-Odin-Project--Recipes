@@ -1,0 +1,28 @@
+.mainbody{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.mainbody .mainheading{
+    font-size: x-large;
+    text-decoration: underline;
+}
+.mainbody .list{
+    font-size: large;
+}
+.recipeheading{
+    text-align: center;
+    text-decoration: underline;
+}
+.recipebody{
+    font-size: large;
+
+}
+.steps{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    text-align: center;
+    width: 400px;
+    height: 400px;
+}
